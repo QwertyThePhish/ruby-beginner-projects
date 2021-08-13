@@ -15,7 +15,7 @@ words = txt1.split(" ")
 words.each do |word|
     #if word matched word in redacted replace word with "Hitler"
     if word == redacted
-        print "Hitler"
+        print "Hitler "
     else
         #if not nothing happens to that word
         print word + " "
