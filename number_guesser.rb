@@ -1,4 +1,5 @@
 #number guesser
+#funny thing I tried to write this a pythonic as possible and it works
 
 random_num = rand(10)
 
